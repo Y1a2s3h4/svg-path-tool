@@ -1,4 +1,4 @@
-# SVG Path Positioning Tool
+# SVG Path Positioning Tool - Built with ClaudeAI
 
 Parse SVG path data, render it in an SVG viewport, and reposition paths
 visually (drag) or numerically while coordinates auto-update.
